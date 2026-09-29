@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Biblioteca – Angular + REST API (CRUD)
 
 Front-end Angular 18 consumindo uma API REST (json-server) com GET, POST, PUT e DELETE.
@@ -21,3 +22,13 @@ Ou em dois terminais: `npm run api` e `npm start`.
 
 ## Usar outra API
 Troque a constante `url` em `src/app/livro.service.ts` e ajuste `livro.model.ts`.
+=======
+# Projeto-Angular
+
+# Alunos
+# Samuel De Souza Santos - 2525050004
+# Everton Viera - 2525050036
+
+# Como Usar
+# No arquivo biblioteca abra o terminal e rode npm install e npm run dev
+>>>>>>> 9a96a20bb1e4749fdd28b07907774fbac4880674
