@@ -1,0 +1,6 @@
+{
+  "livros": [
+    { "id": 1, "titulo": "Dom Casmurro", "autor": "Machado de Assis", "ano": 1899, "lido": true },
+    { "id": 2, "titulo": "Grande Sertão: Veredas", "autor": "Guimarães Rosa", "ano": 1956, "lido": false }
+  ]
+}
